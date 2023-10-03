@@ -1,0 +1,3 @@
+// Declaration to the web browser that specifies which version of HTML the document is written in. for this case HTML 5 
+
+<!DOCTYPE html>
